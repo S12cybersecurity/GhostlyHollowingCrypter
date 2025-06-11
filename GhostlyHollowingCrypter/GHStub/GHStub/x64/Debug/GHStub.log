@@ -1,0 +1,4 @@
+﻿  GHStub.cpp
+C:\Users\s12\Documents\GitHub\Evasion\Techniques\Crypter\GhostlyHollowingCrypter\GHStub\GHStub\GHStub.cpp(213,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s12\Documents\GitHub\Evasion\Techniques\Crypter\GhostlyHollowingCrypter\GHStub\GHStub\GHStub.cpp(300,80): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  GHStub.vcxproj -> C:\Users\s12\Documents\GitHub\Evasion\Techniques\Crypter\GhostlyHollowingCrypter\GHStub\x64\Debug\GHStub.exe
