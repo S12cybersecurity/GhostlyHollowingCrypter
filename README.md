@@ -1,6 +1,8 @@
 # Ghostly Hollowing Crypter
 Advanced in-memory process injection using transient SEC_IMAGE sections, custom crypter, and ADS payload delivery no disk traces, maximum stealth.
 
+https://medium.com/@s12deff/ghostly-hollowing-crypter-evading-av-and-edr-0369a3d3114c
+
 This project demonstrates a stealthy process injection method combining process hollowing, transient SEC_IMAGE sections, and in-memory payload decryption using a custom crypter. The payload is stored in an Alternate Data Stream (ADS), decrypted at runtime, and mapped into a suspended target process without ever touching disk in plaintext form. No PE dumping, no persistent artifacts, and minimal forensic footprint.
 
 ⚔️ Built for educational purposes, red team simulations, and research on modern malware evasion.
